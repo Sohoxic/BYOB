@@ -9,4 +9,4 @@
 - dht11 sensor
 - REES52 DC BO Motor Dual shaft motor.
 
-<p><img src = "./img/BYOB1.jpg" height = 190 width = 190/ padding=70> <img src = "./img/BYOB2.jpg" height = 190 width = 200/><p/>
+<p><img src = "./img/BYOB2.jpg" height = 190 width = 200/>      <img src = "./img/1.jpg" height = 190 width = 300/ padding=70>     <img src = "./img/BYOB1.jpg" height = 190 width = 190/ padding=70> <p/>
