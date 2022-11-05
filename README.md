@@ -8,3 +8,5 @@
 - Infrared Tracking Sensor Module CTRT5000
 - dht11 sensor
 - REES52 DC BO Motor Dual shaft motor.
+
+<p><img src = "./img/1.jpg" height = 190 width = 390/ padding=70> <img src = "./img/2.jpg" height = 190 width = 200/><p/>
