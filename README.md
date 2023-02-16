@@ -1,7 +1,7 @@
 
 # 🕹️ BYOB (Bring Your Own Board) 🕹️
 
-#### This repository contains the IOT🔌 project  for the competition BYOB. In this project we made use of the microcontroller Generic ESP8266 Nodemcu. Our project was to built a electric powered vehicle 🚌 that follows a given path and stops where-ever the humidity is the highest.
+#### This repository contains the IOT🔌 project  for the competition BYOB in which we secured 2nd place. In this project we made use of the microcontroller Generic ESP8266 Nodemcu. Our project was to built a electric powered vehicle 🚌 that follows a given path and stops where-ever humidity is the highest.
 
 ## 🎛️ Components Required 🎚️:
 - Generic ESP8266 Nodemcu
